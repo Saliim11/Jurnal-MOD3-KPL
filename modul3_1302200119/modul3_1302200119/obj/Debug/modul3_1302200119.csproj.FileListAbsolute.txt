@@ -1,0 +1,8 @@
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 3\praktikum\jurnal\modul3_1302200119\modul3_1302200119\bin\Debug\modul3_1302200119.exe.config
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 3\praktikum\jurnal\modul3_1302200119\modul3_1302200119\bin\Debug\modul3_1302200119.exe
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 3\praktikum\jurnal\modul3_1302200119\modul3_1302200119\bin\Debug\modul3_1302200119.pdb
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 3\praktikum\jurnal\modul3_1302200119\modul3_1302200119\obj\Debug\modul3_1302200119.csproj.AssemblyReference.cache
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 3\praktikum\jurnal\modul3_1302200119\modul3_1302200119\obj\Debug\modul3_1302200119.csproj.SuggestedBindingRedirects.cache
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 3\praktikum\jurnal\modul3_1302200119\modul3_1302200119\obj\Debug\modul3_1302200119.csproj.CoreCompileInputs.cache
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 3\praktikum\jurnal\modul3_1302200119\modul3_1302200119\obj\Debug\modul3_1302200119.exe
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 3\praktikum\jurnal\modul3_1302200119\modul3_1302200119\obj\Debug\modul3_1302200119.pdb

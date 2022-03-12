@@ -10,6 +10,11 @@ namespace modul3_1302200119
     {
         static void Main(string[] args)
         {
+            //Table-Driven
+            KodeBuah buah1 = new KodeBuah();
+            Console.WriteLine(buah1.getKodeBuah(KodeBuah.Buah.Semangka));
+
+            
         }
     }
 }
